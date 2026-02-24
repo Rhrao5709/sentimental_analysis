@@ -1,4 +1,4 @@
-```markdown
+
 # 🎬 IMDB Sentiment Analysis (High Accuracy NLP Project)
 
 ## 📌 Project Overview
